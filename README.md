@@ -29,8 +29,9 @@ Follow these steps to install the extension:
 ```php
 require_once "$IP/extensions/YouTrackTicket/YouTrackTicket.php";
 ```
-3. Navigate to "Special:Version" on your wiki to verify that the extension is
-   successfully installed.
+
+Navigate to "Special:Version" on your wiki to verify that the extension is
+successfully installed.
 
 ## Configuration
 
