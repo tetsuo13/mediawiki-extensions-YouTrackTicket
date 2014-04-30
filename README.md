@@ -41,7 +41,7 @@ correctly.
 
 **$wgYouTrackTicketUrl** [string]
 
-This is the URL to the target YouTrack instance and should not contains a
+This is the URL to the target YouTrack instance and should not contain a
 trailing slash. Example:
 
 ```php
